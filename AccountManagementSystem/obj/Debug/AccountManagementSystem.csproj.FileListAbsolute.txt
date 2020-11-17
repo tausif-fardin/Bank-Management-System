@@ -1,0 +1,7 @@
+D:\Code\C#\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe.config
+D:\Code\C#\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.exe
+D:\Code\C#\AccountManagementSystem\AccountManagementSystem\bin\Debug\AccountManagementSystem.pdb
+D:\Code\C#\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.csprojAssemblyReference.cache
+D:\Code\C#\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.csproj.CoreCompileInputs.cache
+D:\Code\C#\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.exe
+D:\Code\C#\AccountManagementSystem\AccountManagementSystem\obj\Debug\AccountManagementSystem.pdb
